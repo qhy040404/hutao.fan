@@ -99,11 +99,11 @@ const openProject = (url) => {
           </div>
 
           <!-- ICP备案号 -->
-<!--          <footer class="icp-footer">-->
-<!--            <a href="https://beian.miit.gov.cn/" target="_blank" class="icp-link">-->
-<!--              ICP备案号：暂时留空-->
-<!--            </a>-->
-<!--          </footer>-->
+          <footer class="icp-footer">
+            <a href="https://beian.miit.gov.cn/" target="_blank" class="icp-link">
+              蜀ICP备2022025022号
+            </a>
+          </footer>
         </main>
       </div>
     </div>
