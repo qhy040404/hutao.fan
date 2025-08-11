@@ -25,17 +25,17 @@ const projects = [
   {
     name: 'Snap Hutao',
     url: 'https://hut.ao/',
-    icon: '/src/assets/snap-hutao-icon.png'
+    icon: new URL('./assets/snap-hutao-icon.png', import.meta.url).href
   },
   {
     name: 'Yae',
     url: 'https://github.com/HolographicHat/Yae',
-    icon: '/src/assets/yae-icon.png'
+    icon: new URL('./assets/yae-icon.png', import.meta.url).href
   },
   {
     name: 'BetterGI',
     url: 'https://bettergi.com/',
-    icon: '/src/assets/bettergi-icon.png'
+    icon: new URL('./assets/bettergi-icon.png', import.meta.url).href
   }
 ]
 
